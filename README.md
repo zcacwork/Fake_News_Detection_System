@@ -43,6 +43,12 @@ NASA confirms aliens landed in New York yesterday
 Prediction: Fake News.
 
 
+<img width="1919" height="1075" alt="Screenshot 2026-04-28 160256" src="https://github.com/user-attachments/assets/d235c064-4620-4f5d-9148-e5732be7fc14" />
+
+
+
+
+
 **Results**
 Achieved high classification accuracy in detecting fake vs real news articles and demonstrated practical application of NLP in misinformation detection.
 
