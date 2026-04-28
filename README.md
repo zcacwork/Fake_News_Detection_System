@@ -28,6 +28,20 @@ Real-time Prediction on custom news input
 **Dataset:**
 The project uses the Fake and Real News Dataset from Kaggle containing thousands of labeled news articles for training and testing.
 
+**Run Process**
+Type in terminal:python Brain.py
+
+**Expected Output**
+Fake News Samples: (23481, 4)
+True News Samples: (21417, 4)
+Combined Dataset Shape: (44898, 5)
+Accuracy: 0.98
+
+Enter news headline/article:
+NASA confirms aliens landed in New York yesterday
+
+Prediction: Fake News.
+
 
 **Results**
 Achieved high classification accuracy in detecting fake vs real news articles and demonstrated practical application of NLP in misinformation detection.
