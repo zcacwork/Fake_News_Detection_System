@@ -1,2 +1,40 @@
 # Fake_News_Detection_System
 A Machine Learning-based NLP project that classifies news articles as Fake or Real using text classification techniques. The system processes news headlines and article content, converts textual data into numerical features using TF-IDF Vectorization, and trains a Logistic Regression model to detect misinformation.
+
+**Features**
+Preprocesses news headlines and article text
+Removes punctuation, URLs, numbers, and unwanted text
+Converts text into numerical vectors using TF-IDF
+Trains a binary classification model
+Predicts whether a news article is fake or real
+Allows real-time custom text testing through user input
+
+
+**Tech Stack**
+Python
+Pandas
+NumPy
+Scikit-learn
+Natural Language Processing (NLP)
+Machine Learning Workflow
+Data Collection using Fake and Real News datasets
+Data Cleaning and Text Preprocessing
+Feature Extraction using TF-IDF
+Model Training using Logistic Regression
+Model Evaluation using Accuracy and Classification Report
+Real-time Prediction on custom news input
+
+
+**Dataset:**
+The project uses the Fake and Real News Dataset from Kaggle containing thousands of labeled news articles for training and testing.
+
+
+**Results**
+Achieved high classification accuracy in detecting fake vs real news articles and demonstrated practical application of NLP in misinformation detection.
+
+
+**Future Improvements**
+Deploy using Streamlit or Flask
+Improve performance using Google BERT models
+Add web scraping for live news verification
+Build a browser extension for fake news detection
